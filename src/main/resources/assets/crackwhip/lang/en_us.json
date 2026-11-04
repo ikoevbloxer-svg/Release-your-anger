@@ -1,0 +1,9 @@
+{
+  "itemGroup.crackwhip": "Whip & Chain",
+  "item.crackwhip.whip": "Whip",
+  "item.crackwhip.whip.tooltip": "Right-click to lash up to 8 blocks away. Damage: 4 (2 hearts).",
+  "item.crackwhip.chain_leash": "Chain Leash",
+  "item.crackwhip.chain_leash.tooltip": "Right-click a mob or player to chain them. Right-click again to release.",
+  "item.crackwhip.chain_leash.tooltip2": "Unbreakable: it pulls when far, and teleports when very far.",
+  "subtitles.crackwhip.whip_crack": "Whip cracks"
+}

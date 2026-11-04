@@ -1,0 +1,9 @@
+{
+  "itemGroup.crackwhip": "Кнут и цепь",
+  "item.crackwhip.whip": "Кнут",
+  "item.crackwhip.whip.tooltip": "ПКМ — щёлкнуть на расстоянии до 8 блоков. Урон: 4 (2 сердца).",
+  "item.crackwhip.chain_leash": "Цепной поводок",
+  "item.crackwhip.chain_leash.tooltip": "ПКМ по мобу или игроку — посадить на цепь. ПКМ ещё раз — снять.",
+  "item.crackwhip.chain_leash.tooltip2": "Цепь не рвётся: если далеко — тянет, если очень далеко — телепортирует.",
+  "subtitles.crackwhip.whip_crack": "Щелчок кнута"
+}

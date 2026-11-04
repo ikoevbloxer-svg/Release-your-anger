@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  S",
+    " SL",
+    "T  "
+  ],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "L": { "item": "minecraft:leather" },
+    "T": { "item": "minecraft:stick" }
+  },
+  "result": { "id": "crackwhip:whip", "count": 1 }
+}
