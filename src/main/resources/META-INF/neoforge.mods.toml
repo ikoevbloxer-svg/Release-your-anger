@@ -1,26 +1,27 @@
-modLoader = "javafml"
-loaderVersion = "[1,)"
-license = "MIT"
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
 
 [[mods]]
-modId = "crackwhip"
-version = "1.0.0"
-displayName = "Crack the Whip"
-description = '''
-Кнут с настоящим щелчком и цепной поводок, который невозможно порвать.
-Можно сажать на цепь любого моба и даже игроков.
+modId="crackthewhip"
+version="1.0.0"
+displayName="Crack the Whip"
+authors="tatarinjavid"
+description='''
+Хлыст Агонии и неразрушимые Кандальные цепи.
+Хлещи, заковывай, приковывай к стенам.
 '''
 
-[[dependencies.crackwhip]]
-modId = "neoforge"
-type = "required"
-versionRange = "[21.1.0,)"
-ordering = "NONE"
-side = "BOTH"
+[[dependencies.crackthewhip]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
 
-[[dependencies.crackwhip]]
-modId = "minecraft"
-type = "required"
-versionRange = "[1.21.1]"
-ordering = "NONE"
-side = "BOTH"
+[[dependencies.crackthewhip]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"

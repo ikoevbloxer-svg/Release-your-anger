@@ -19,10 +19,11 @@ neoForge {
     runs {
         client {
             client()
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
         }
         server {
             server()
-            programArguments.add('--nogui')
+            programArgument '--nogui'
         }
     }
 
